@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void sendEmail() {
-        String[] recipients = {"example@example.com"};
+        String[] recipients = {"Gorka.Damian@zst.radom.pl"};
         String subject = "Temat wiadomości";
         String body = "Treść wiadomości e-mail";
 
